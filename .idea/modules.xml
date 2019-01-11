@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Eureka_7001/Eureka_7001.iml" filepath="$PROJECT_DIR$/Eureka_7001/Eureka_7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lovesale_plat_parent/Lovesale_plat_interface/Lovesale_plat_interface.iml" filepath="$PROJECT_DIR$/Lovesale_plat_parent/Lovesale_plat_interface/Lovesale_plat_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lovesale_plat_parent/Lovesale_plat_parent.iml" filepath="$PROJECT_DIR$/Lovesale_plat_parent/Lovesale_plat_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lovesale_plat_parent/Lovesale_plat_server_8001/Lovesale_plat_server_8001.iml" filepath="$PROJECT_DIR$/Lovesale_plat_parent/Lovesale_plat_server_8001/Lovesale_plat_server_8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zuul_gateway_9527/Zuul_gateway_9527.iml" filepath="$PROJECT_DIR$/Zuul_gateway_9527/Zuul_gateway_9527.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_parent/basic_parent.iml" filepath="$PROJECT_DIR$/basic_parent/basic_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_parent/basic_util/basic_util.iml" filepath="$PROJECT_DIR$/basic_parent/basic_util/basic_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lovesale_parent.iml" filepath="$PROJECT_DIR$/lovesale_parent.iml" />
+    </modules>
+  </component>
+</project>
