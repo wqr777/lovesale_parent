@@ -14,6 +14,7 @@
         <module>Lovesale_plat_parent</module>
         <module>Zuul_gateway_9527</module>
         <module>basic_parent</module>
+        <module>config_server_8877</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

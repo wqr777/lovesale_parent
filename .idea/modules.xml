@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/Zuul_gateway_9527/Zuul_gateway_9527.iml" filepath="$PROJECT_DIR$/Zuul_gateway_9527/Zuul_gateway_9527.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic_parent/basic_parent.iml" filepath="$PROJECT_DIR$/basic_parent/basic_parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic_parent/basic_util/basic_util.iml" filepath="$PROJECT_DIR$/basic_parent/basic_util/basic_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config_server_8877/config_server_8877.iml" filepath="$PROJECT_DIR$/config_server_8877/config_server_8877.iml" />
       <module fileurl="file://$PROJECT_DIR$/lovesale_parent.iml" filepath="$PROJECT_DIR$/lovesale_parent.iml" />
     </modules>
   </component>

@@ -1,0 +1,18 @@
+server:
+  port: 8877
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7001/eureka
+  instance:
+    prefer-ip-address: true
+spring:
+  application:
+    name: lovasale-config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/wqr777/config-server.git
+          username: wqr777
+          password: believemyself.70

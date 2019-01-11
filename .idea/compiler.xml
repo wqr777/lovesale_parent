@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="basic_util" />
+        <module name="config_server_8877" />
         <module name="Eureka_7001" />
         <module name="Lovesale_plat_interface" />
         <module name="Lovesale_plat_server_8001" />
@@ -16,6 +17,7 @@
     <bytecodeTargetLevel>
       <module name="basic_parent" target="1.8" />
       <module name="basic_util" target="1.8" />
+      <module name="config_server_8877" target="1.8" />
       <module name="Eureka_7001" target="1.8" />
       <module name="lovesale_parent" target="1.8" />
       <module name="Lovesale_plat_interface" target="1.8" />
